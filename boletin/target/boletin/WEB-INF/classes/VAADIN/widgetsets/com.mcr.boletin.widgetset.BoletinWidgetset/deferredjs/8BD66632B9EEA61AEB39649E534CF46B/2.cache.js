@@ -1,0 +1,1 @@
+$wnd.com_mcr_boletin_widgetset_BoletinWidgetset.runAsyncCallback2('lgb(1671,1,yie);_.vc=function xmc(){m6b((!f6b&&(f6b=new r6b),f6b),this.a.d)};Rbe(Th)(2);\n//# sourceURL=com.mcr.boletin.widgetset.BoletinWidgetset-2.js\n')
